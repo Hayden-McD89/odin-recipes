@@ -1,1 +1,2 @@
 # odin-recipes
+The project is to create a webpage for several recipes. Once completed, the webpage should show everything that I have learned so far, which includes different headers, paragraphs, pictures, links, lists, and Git basics.
